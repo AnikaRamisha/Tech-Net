@@ -1,0 +1,48 @@
+*{
+    .overpass-<uniquifier> {
+        font-family: "Overpass", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 600px;
+        font-style: normal;
+        margin: 10px;
+        padding: 0;
+      }
+}
+.logo-style{
+width: 140px;
+height: 40px;
+
+}
+.menu{
+    width: 400px;
+    float: left;
+    height:70px;
+}
+.mainlogo{
+height: 800px;
+}
+
+.haylousolar{
+    font-size:80px;
+    font-weight: 900;
+    line-height: 80px;
+   
+}
+.effort{
+    color: #7b847e ;
+    font-weight: 500;
+    font-size: 25px;
+}
+.blutooth{
+    font-weight: 300;
+    font-size: 22px;
+    color: black;
+}
+#menu-item{
+    padding: 20px;
+  }
+  a {
+    color: inherit;
+    margin: 24px;
+    text-decoration: inherit;
+}
